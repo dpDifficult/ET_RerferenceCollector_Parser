@@ -7,5 +7,5 @@
 
 只需要将Unity中的Project的名称为：____Window的Prefab拖入“Drop files here”区域，再点击按钮即可在文本框中生成如下代码：
 
-![img2](https://github.com/dpDifficult/ET_RerferenceCollector_Parser/blob/main/img1.png)
+![img2](https://github.com/dpDifficult/ET_RerferenceCollector_Parser/blob/main/img2.png)
 
